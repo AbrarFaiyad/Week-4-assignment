@@ -1,4 +1,4 @@
-title: "Getting-and-Cleaning-Data-Week-4-Assignment" 
+title: "Getting-and-Cleaning-Data-Week-4-Assignment"
 
 author: "Abrar Faiyad" 
 
@@ -45,6 +45,7 @@ The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 typ
 5.STANDING
 
 6.LAYING
+
 
 
 # Measurements of the tidy dataset
